@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.cart-actions button{
+  width: 200px;
+  padding: 8px 16px;
+  background-color: #a5c9ad;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.cart-actions button:hover{
+      background-color: #3dc45a;
+}
